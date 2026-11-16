@@ -57,11 +57,11 @@ Paid Sketch Subscription — **free in our launcher**, paid on the official site
 
 ## Screenshots
 
-![Sketch](preview.png)
+<p align="center"><img src="preview.png" alt="Sketch" width="420"></p>
 
 Aivora launcher hub — **Design SaaS** → **Sketch**:
 
-![Aivora Launcher](assets/launcher-main.png)
+<p align="center"><img src="assets/launcher-main.png" alt="Aivora Launcher" width="720"></p>
 
 ## FAQ
 
